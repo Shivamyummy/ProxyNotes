@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
     String []des={"This unit introduces us to Matter.",
             "This unit contains all about Matter's nature and states.",
             "This unit introdues us about Organization in the living world.",
-            "This unit contains all about Cell, Tissues and Biological diversit.y",
+            "This unit contains all about Cell, Tissues and Biological diversity",
             "This unit introdues us to the Motion.",
             "This unit contains all about Force and Work.",
             "This unit contains all about Our Environment.",
