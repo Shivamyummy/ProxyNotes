@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProxyNotes</string>
+    <string name="chap1">This chapter contains all about matter i.e. state of matter, characteristices, change of state.</string>
+    <string name="chap2">This chapter contains all about the Organization in the living world,unit of life,tissues, and Organ System etc.</string>
+    <string name="chap3">Videoapp</string>
+    <string name="chap4">Videoapp</string>
+    <string name="chap5">Videoapp</string>
+    <string name="chap6">Videoapp</string>
+    <string name="chap7">Videoapp</string>
+    <string name="chap8">Videoapp</string>
+
+</resources>
